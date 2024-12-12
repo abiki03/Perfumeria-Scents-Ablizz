@@ -1,0 +1,14 @@
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\bin\Debug\Scents Ablizz.exe.config
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\bin\Debug\Scents Ablizz.exe
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\bin\Debug\Scents Ablizz.pdb
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents Ablizz.csproj.AssemblyReference.cache
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents_Ablizz.Properties.Resources.resources
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents Ablizz.csproj.GenerateResource.cache
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents Ablizz.csproj.CoreCompileInputs.cache
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents Ablizz.exe
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents Ablizz.pdb
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents_Ablizz.Inicio.resources
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents_Ablizz.Consultar.resources
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents_Ablizz.Eliminar.resources
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents_Ablizz.Insertar.resources
+C:\Users\abiga\OneDrive\Escritorio\SA\Scents Ablizz\Scents Ablizz\obj\Debug\Scents_Ablizz.Modificar.resources
